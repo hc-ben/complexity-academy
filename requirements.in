@@ -3,3 +3,5 @@ pandas
 numpy
 mesa
 asyncio
+ipywidgets
+jupyter_contrib_nbextensions
